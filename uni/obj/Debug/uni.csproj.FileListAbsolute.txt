@@ -1,0 +1,6 @@
+c:\users\kali\documents\visual studio 2015\Projects\uni\uni\bin\Debug\uni.exe.config
+c:\users\kali\documents\visual studio 2015\Projects\uni\uni\obj\Debug\uni.csprojResolveAssemblyReference.cache
+C:\Users\kali\Documents\Visual Studio 2015\Projects\uni\uni\bin\Debug\uni.exe
+C:\Users\kali\Documents\Visual Studio 2015\Projects\uni\uni\bin\Debug\uni.pdb
+C:\Users\kali\Documents\Visual Studio 2015\Projects\uni\uni\obj\Debug\uni.exe
+C:\Users\kali\Documents\Visual Studio 2015\Projects\uni\uni\obj\Debug\uni.pdb
