@@ -19,18 +19,14 @@ namespace uni.BL
             this.fscMarks = fscMarks;
             this.ecatMarks = ecatMarks; 
             this.prefrences = prefrences;
-            this.isAdmitted = "NOT_ADMITTED";
         }
         public string name;
         public int age;
         public float fscMarks;
         public float ecatMarks;
         public float merit;
-        public int prefrencesQuantity;
-        public int totalFee;
         public List<Subject> studentSubjects = new List<Subject>();
         public List<DegreeProgram> prefrences = new List<DegreeProgram>();
-        public string isAdmitted;
         public DegreeProgram registeredProgram =  new DegreeProgram(); // This is to store registered subject by user
         public static List<Student> students = new List<Student>();
         public void calculateMerit()
